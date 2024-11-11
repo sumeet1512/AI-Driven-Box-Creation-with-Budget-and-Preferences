@@ -31,3 +31,5 @@ The recommendation system consists of:
 1. Data Ingestion Layer: Collects and processes user data on preferences and budgets.
 2. Machine Learning Model: Leverages advanced algorithms to generate recommendations.
 3. Reinforcement Learning Module: Adjusts recommendations based on user feedback.
+
+![image](https://github.com/user-attachments/assets/704dec37-9fc6-4f35-8070-eaa39528f9f3)
